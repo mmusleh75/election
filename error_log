@@ -1,0 +1,6 @@
+[12-Dec-2015 09:25:20 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'data'@'localhost' (using password: YES) in /home4/atheerso/public_html/elec/db/conn.php on line 10
+[12-Dec-2015 09:25:20 America/Denver] PHP Fatal error:  Access denied for user 'data'@'localhost' (using password: YES) in /home4/atheerso/public_html/elec/db/conn.php on line 10
+[12-Dec-2015 09:25:35 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'data'@'localhost' (using password: YES) in /home4/atheerso/public_html/elec/db/conn.php on line 10
+[12-Dec-2015 09:25:35 America/Denver] PHP Fatal error:  Access denied for user 'data'@'localhost' (using password: YES) in /home4/atheerso/public_html/elec/db/conn.php on line 10
+[12-Dec-2015 09:46:36 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'data'@'localhost' (using password: YES) in /home4/atheerso/public_html/elec/db/conn.php on line 10
+[12-Dec-2015 09:46:36 America/Denver] PHP Fatal error:  Access denied for user 'data'@'localhost' (using password: YES) in /home4/atheerso/public_html/elec/db/conn.php on line 10
